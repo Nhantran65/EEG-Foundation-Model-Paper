@@ -1,0 +1,42 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+*.fig
+
+# EEGLAB data files
+*.fdt
+*.dat
+
+# EDF files (raw data - typically large)
+*.edf
+*.bdf
+
+# CSV data files (if very large, uncomment)
+# *.csv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+tmp/
